@@ -147,5 +147,7 @@ body{
         max-width: 80vw;
         min-height: 70vh;
     }
-    
+    .header{
+        font-size: 15px;
+    }
 }
