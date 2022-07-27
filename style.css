@@ -51,7 +51,7 @@ body{
 .text{
     font-size: 15px;
     letter-spacing: .25px;
-    max-width: 90%;
+    max-width: 95%;
     color:  hsl(217, 12%, 63%);
 }
 .numbers{
